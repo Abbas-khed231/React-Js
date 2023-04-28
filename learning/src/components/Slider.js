@@ -1,13 +1,13 @@
-import React, {Component} from "react";
+// import React, {Component} from "react";
 
-class Slider extends Component {
-    render() {
-        return(
-            <>
-                <div>Slider</div>
-            </>
-        )
-    }
-}
+// class Slider extends Component {
+//     render() {
+//         return(
+//             <>
+//                 <div>Slider</div>
+//             </>
+//         )
+//     }
+// }
 
-export default Slider;
+// export default Slider;
